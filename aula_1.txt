@@ -1,0 +1,1 @@
+											comandos e suas funções $ls-Lista todos os diretorios que temos na nossa plataforma.$cd - Usado para navegar entre todas as pastas.
